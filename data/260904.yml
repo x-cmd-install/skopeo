@@ -7,7 +7,7 @@ about:
   head: 7f29d2a
   archived: false
   latestVersion: v1.24.0
-  collectedAt: 2026-09-04T19:44:38Z
+  collectedAt: 2026-09-04T20:52:41Z
 timeline:
   created: 2016-03-07
   lastCommit: 2026-09-03
@@ -83,6 +83,114 @@ total:
   openIssue: 62
   commit: 3660
 ---
+path: /home/runner/.x-repo/github.com/containers/skopeo
+collectedAt: 2026-09-04T20:52:45Z
+loc:
+  Go:
+    code: 561288
+    comments: 135385
+    blanks: 75106
+    files: 2809
+  C:
+    code: 177384
+    comments: 77442
+    blanks: 15724
+    files: 8
+  AssemblyGAS:
+    code: 24320
+    comments: 1383
+    blanks: 3121
+    files: 77
+  CHeader:
+    code: 5721
+    comments: 12998
+    blanks: 1037
+    files: 14
+  Sh:
+    code: 1484
+    comments: 206
+    blanks: 115
+    files: 21
+  Makefile:
+    code: 833
+    comments: 113
+    blanks: 253
+    files: 18
+  Json:
+    code: 800
+    comments: 0
+    blanks: 0
+    files: 16
+  Bash:
+    code: 367
+    comments: 194
+    blanks: 89
+    files: 5
+  Yaml:
+    code: 335
+    comments: 42
+    blanks: 28
+    files: 12
+  Perl:
+    code: 156
+    comments: 71
+    blanks: 50
+    files: 1
+  RPMSpecfile:
+    code: 126
+    comments: 23
+    blanks: 24
+    files: 1
+  Svg:
+    code: 74
+    comments: 1
+    blanks: 0
+    files: 2
+  Bitbake:
+    code: 64
+    comments: 175
+    blanks: 47
+    files: 8
+  Nix:
+    code: 23
+    comments: 1
+    blanks: 2
+    files: 1
+  Protobuf:
+    code: 13
+    comments: 0
+    blanks: 4
+    files: 1
+  Toml:
+    code: 8
+    comments: 45
+    blanks: 4
+    files: 2
+  Dockerfile:
+    code: 3
+    comments: 1
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 13345
+    blanks: 5102
+    files: 170
+  Text:
+    code: 0
+    comments: 1114
+    blanks: 56
+    files: 14
+total:
+  code: 774549
+  comments: 242804
+  blanks: 101035
+  files: 3182
 ---
 date: "2026-08-24"
 repo:
