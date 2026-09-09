@@ -7,7 +7,7 @@ Work with remote images registries - retrieving information, images, signing con
 - **Latest release**: `v1.24.0` (2026-07-30)
 - **Last commit**: 2026-09-08
 - **License**: Apache-2.0
-- **Stars**: 11221 · **Forks**: 952 · **Open issues**: 884 · **Contributors**: 150
+- **Stars**: 11224 · **Forks**: 952 · **Open issues**: 884 · **Contributors**: 150
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/skopeo> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:52:07Z._
+_Last regenerated: 2026-09-09T19:03:27Z._
