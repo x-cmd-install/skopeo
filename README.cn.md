@@ -4,7 +4,7 @@
 
 Work with remote images registries - retrieving information, images, signing content
 
-![skopeo](https://repo.x-cmd.io/skopeo.svg)
+![skopeo](https://repo.x-cmd.io/skopeo.svg?lang=zh)
 
 ## 安装
 
@@ -20,8 +20,7 @@ x install skopeo
 ## 发布
 
 - **最新版本**: `v1.24.0` (2026-07-30)
-- **最近提交**: 2026-09-08
-- **发布时间**: 2026-07-30T18:21:45Z
+- **最近提交**: 2026-09-10
 
 ## 流行度
 
@@ -29,7 +28,7 @@ x install skopeo
 
 ## 累计统计
 
-- **发布数**: 90 · **已合并 PR**: 1635 · **开放 PR**: 26 · **已关闭 issue**: 821 · **开放 issue**: 63 · **提交数**: 3670
+- **发布数**: 90 · **已合并 PR**: 1638 · **开放 PR**: 24 · **已关闭 issue**: 821 · **开放 issue**: 63 · **提交数**: 3676
 
 ## 最近活动
 
@@ -41,15 +40,15 @@ x install skopeo
 
 ## 代码规模
 
-合计: **773,263** 行代码（覆盖前 5 种语言、共 **2932** 个文件）。
+合计: **773,966** 行代码（覆盖前 5 种语言、共 **2937** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 561,551 | 135,513 | 75,154 | 2812 |
+| Go | 562,122 | 135,568 | 75,207 | 2815 |
 | C | 177,384 | 77,442 | 15,724 | 8 |
-| AssemblyGAS | 24,320 | 1,383 | 3,121 | 77 |
+| AssemblyGAS | 24,459 | 1,397 | 3,143 | 79 |
 | CHeader | 5,721 | 12,998 | 1,037 | 14 |
-| Sh | 1,484 | 206 | 115 | 21 |
+| Sh | 1,477 | 206 | 115 | 21 |
 
 ## OpenSSF Scorecard 评分
 
@@ -70,4 +69,4 @@ skopeo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:41:20Z._
