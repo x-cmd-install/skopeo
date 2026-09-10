@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.24.0"
   latestRelease: "v1.24.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:41:04Z
+  collectedAt: 2026-09-10T20:53:52Z
 timeline:
   created: 2016-03-07
   lastCommit: 2026-09-10
@@ -86,7 +86,7 @@ total:
   commit: 3676
 ---
 path: /home/runner/.x-repo/github.com/containers/skopeo
-collectedAt: 2026-09-10T16:41:13Z
+collectedAt: 2026-09-10T20:54:00Z
 loc:
   Go:
     code: 562122
