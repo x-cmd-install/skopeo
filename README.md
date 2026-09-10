@@ -12,6 +12,28 @@ Work with remote images registries - retrieving information, images, signing con
 x install skopeo
 ```
 
+## Code insight
+
+Total: **773,966** lines of code across **2937** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 562,122 | 135,568 | 75,207 | 2815 |
+| C | 177,384 | 77,442 | 15,724 | 8 |
+| AssemblyGAS | 24,459 | 1,397 | 3,143 | 79 |
+| CHeader | 5,721 | 12,998 | 1,037 | 14 |
+| Sh | 1,477 | 206 | 115 | 21 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.5 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (-1/10) — no releases found
+
 ## Source
 
 - **Upstream**: <https://github.com/containers/skopeo>
@@ -35,30 +57,30 @@ x install skopeo
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 17 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## Distribution status
 
-Total: **773,966** lines of code across **2937** files in the top 5 languages.
+Reported by **327** distros on [repology.org](https://repology.org/project/skopeo). **32** are ✅ on the latest upstream release, **134** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 562,122 | 135,568 | 75,207 | 2815 |
-| C | 177,384 | 77,442 | 15,724 | 8 |
-| AssemblyGAS | 24,459 | 1,397 | 3,143 | 79 |
-| CHeader | 5,721 | 12,998 | 1,037 | 14 |
-| Sh | 1,477 | 206 | 115 | 21 |
-
-## OpenSSF Scorecard
-
-Overall score: **8.5 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (-1/10) — no releases found
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.22.0` | ⚠️ outdated |
+| Debian 14 | `1.22.0` | ⚠️ outdated |
+| Debian 13 | `1.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.21.0~pre1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.13.3` | ⚠️ outdated |
+| Arch | `1.24.0` | ✅ latest |
+| Homebrew | `1.24.0` | ✅ latest |
+| Fedora rawhide | `1.24.0` | ✅ latest |
+| Nix unstable | `1.24.0` | ✅ latest |
+| Void | `1.21.0` | ⚠️ outdated |
+| Alpine edge | `1.24.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.24.0` | ✅ latest |
 
 ## Improve this data
 
@@ -69,4 +91,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:54:06Z._

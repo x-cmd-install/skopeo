@@ -12,6 +12,28 @@ Work with remote images registries - retrieving information, images, signing con
 x install skopeo
 ```
 
+## 代码规模
+
+合计: **773,966** 行代码（覆盖前 5 种语言、共 **2937** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 562,122 | 135,568 | 75,207 | 2815 |
+| C | 177,384 | 77,442 | 15,724 | 8 |
+| AssemblyGAS | 24,459 | 1,397 | 3,143 | 79 |
+| CHeader | 5,721 | 12,998 | 1,037 | 14 |
+| Sh | 1,477 | 206 | 115 | 21 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **8.5 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (-1/10) — no releases found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/containers/skopeo>
@@ -35,30 +57,30 @@ x install skopeo
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 8 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 17 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## 发行版状态
 
-合计: **773,966** 行代码（覆盖前 5 种语言、共 **2937** 个文件）。
+在 [repology.org](https://repology.org/project/skopeo) 上共有 **327** 个发行版报告此项目。**32** 个 ✅ 已是最新上游版本，**134** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 562,122 | 135,568 | 75,207 | 2815 |
-| C | 177,384 | 77,442 | 15,724 | 8 |
-| AssemblyGAS | 24,459 | 1,397 | 3,143 | 79 |
-| CHeader | 5,721 | 12,998 | 1,037 | 14 |
-| Sh | 1,477 | 206 | 115 | 21 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **8.5 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (-1/10) — no releases found
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.22.0` | ⚠️ outdated |
+| Debian 14 | `1.22.0` | ⚠️ outdated |
+| Debian 13 | `1.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.21.0~pre1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.13.3` | ⚠️ outdated |
+| Arch | `1.24.0` | ✅ latest |
+| Homebrew | `1.24.0` | ✅ latest |
+| Fedora rawhide | `1.24.0` | ✅ latest |
+| Nix unstable | `1.24.0` | ✅ latest |
+| Void | `1.21.0` | ⚠️ outdated |
+| Alpine edge | `1.24.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.24.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -69,4 +91,4 @@ skopeo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:41:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:07Z._
