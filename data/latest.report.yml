@@ -2,15 +2,15 @@ about:
   description: "Work with remote images registries - retrieving information, images, signing content"
   license: Apache-2.0
   homepage: 
-  head: 06ee61d
+  head: bb6c5be
   archived: false
   latestVersion: "v1.24.0"
   latestRelease: "v1.24.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:47:16Z
+  collectedAt: 2026-09-10T16:41:04Z
 timeline:
   created: 2016-03-07
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-10
   lastVersion: 2026-07-30
   lastRelease: 2026-07-30
   lastPrerelease: 
@@ -20,7 +20,7 @@ popularity:
   fork: 952
   release: 90
   contributor: 150
-  pullRequest: 2038
+  pullRequest: 2039
   issue: 884
 language:
   Go: 317909
@@ -79,37 +79,37 @@ recent:
     commit: 0
 total:
   release: 90
-  mergedPR: 1635
-  openPR: 26
+  mergedPR: 1638
+  openPR: 24
   closedIssue: 821
   openIssue: 63
-  commit: 3670
+  commit: 3676
 ---
 path: /home/runner/.x-repo/github.com/containers/skopeo
-collectedAt: 2026-09-10T04:47:28Z
+collectedAt: 2026-09-10T16:41:13Z
 loc:
   Go:
-    code: 561551
-    comments: 135513
-    blanks: 75154
-    files: 2812
+    code: 562122
+    comments: 135568
+    blanks: 75207
+    files: 2815
   C:
     code: 177384
     comments: 77442
     blanks: 15724
     files: 8
   AssemblyGAS:
-    code: 24320
-    comments: 1383
-    blanks: 3121
-    files: 77
+    code: 24459
+    comments: 1397
+    blanks: 3143
+    files: 79
   CHeader:
     code: 5721
     comments: 12998
     blanks: 1037
     files: 14
   Sh:
-    code: 1484
+    code: 1477
     comments: 206
     blanks: 115
     files: 21
@@ -189,10 +189,10 @@ loc:
     blanks: 56
     files: 14
 total:
-  code: 774812
-  comments: 242933
-  blanks: 101083
-  files: 3185
+  code: 775515
+  comments: 243002
+  blanks: 101158
+  files: 3190
 ---
 date: "2026-09-07"
 repo:
