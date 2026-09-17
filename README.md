@@ -37,31 +37,32 @@ Lowest-scoring checks:
 ## Source
 
 - **Upstream**: <https://github.com/containers/skopeo>
+- **Homepage**: <https://github.com/podman-container-tools/skopeo>
 - **License**: Apache-2.0
 
 ## Release
 
-- **Latest**: `v1.24.0` (2026-07-30)
+- **Latest**: `v1.24.1` (2026-09-16)
 - **Last commit**: 2026-09-10
 
 ## Popularity
 
-- **Stars**: 11,233 · **Forks**: 955 · **Open issues**: 884 · **Contributors**: 150
+- **Stars**: 11,234 · **Forks**: 955 · **Open issues**: 884 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 1638 · **Open PRs**: 26 · **Closed issues**: 821 · **Open issues**: 63 · **Commits**: 3676
+- **Releases**: 92 · **Merged PRs**: 1641 · **Open PRs**: 26 · **Closed issues**: 822 · **Open issues**: 62 · **Commits**: 3676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -72,4 +73,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:02:17Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:12:15Z._
