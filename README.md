@@ -14,11 +14,11 @@ x install skopeo
 
 ## Code insight
 
-Total: **773,967** lines of code across **2937** files in the top 5 languages.
+Total: **774,596** lines of code across **2939** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 562,123 | 135,568 | 75,207 | 2815 |
+| Go | 562,752 | 135,848 | 75,292 | 2817 |
 | C | 177,384 | 77,442 | 15,724 | 8 |
 | AssemblyGAS | 24,459 | 1,397 | 3,143 | 79 |
 | CHeader | 5,721 | 12,998 | 1,037 | 14 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-21
 
 ## Popularity
 
-- **Stars**: 11,240 · **Forks**: 956 · **Open issues**: 884 · **Contributors**: 152
+- **Stars**: 11,244 · **Forks**: 956 · **Open issues**: 884 · **Contributors**: 152
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1648 · **Open PRs**: 22 · **Closed issues**: 825 · **Open issues**: 59 · **Commits**: 3690
+- **Releases**: 92 · **Merged PRs**: 1650 · **Open PRs**: 22 · **Closed issues**: 825 · **Open issues**: 59 · **Commits**: 3692
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-01 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-02 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:19:24Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:02:48Z._
