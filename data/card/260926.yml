@@ -284,4 +284,3 @@ checks:
     details:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
-{"id":389998206,"author":{"login":"lsm5","id":247367,"node_id":"MDQ6VXNlcjI0NzM2Nw==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAy4nT84XPuZ-","tag_name":"v1.24.1","target_commitish":"main","name":"v1.24.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-16T14:12:09Z","updated_at":"2026-09-16T14:23:31Z","published_at":"2026-09-16T14:23:31Z","assets":[],"body":"## What's Changed\r\n* Bump Skopeo to v1.24.1, common 0.69.2, image 5.41.2, storage 1.64.1 to fix CVE-2025-11395 by @mtrmac in https://github.com/podman-container-tools/skopeo/pull/2983\r\n\r\n**Full Changelog**: https://github.com/podman-container-tools/skopeo/compare/v1.24.0...v1.24.1","reactions":{"total_count":1,"+1":1,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0},"mentions_count":1}
