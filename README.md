@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,320 · **Forks**: 957 · **Open issues**: 884 · **Contributors**: 154
+- **Stars**: 11,326 · **Forks**: 958 · **Open issues**: 885 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1662 · **Open PRs**: 19 · **Closed issues**: 834 · **Open issues**: 50 · **Commits**: 3719
+- **Releases**: 92 · **Merged PRs**: 1662 · **Open PRs**: 18 · **Closed issues**: 835 · **Open issues**: 50 · **Commits**: 3719
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-24 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-29 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-25 | 15 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-30 | 19 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:51:15Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:53:04Z._
