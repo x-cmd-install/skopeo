@@ -14,55 +14,45 @@ x install skopeo
 
 ## Code insight
 
-Total: **776,934** lines of code across **2952** files in the top 5 languages.
+Total: **823,404** lines of code across **3077** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 565,176 | 136,377 | 75,710 | 2829 |
-| C | 177,384 | 77,442 | 15,724 | 8 |
-| AssemblyGAS | 24,356 | 1,396 | 3,133 | 80 |
+| Go | 592,114 | 140,291 | 79,087 | 2942 |
+| C | 177,416 | 77,446 | 15,724 | 8 |
+| AssemblyGAS | 43,847 | 1,974 | 3,829 | 92 |
 | CHeader | 5,721 | 12,998 | 1,037 | 14 |
 | Sh | 1,475 | 206 | 115 | 21 |
 
-## OpenSSF Scorecard
-
-Overall score: **8.3 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
-
 ## Source
 
-- **Upstream**: <https://github.com/containers/skopeo>
+- **Upstream**: <https://github.com/podman-container-tools/skopeo>
 - **Homepage**: <https://github.com/podman-container-tools/skopeo>
 - **License**: Apache-2.0
 
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
-- **Stars**: 11,327 · **Forks**: 958 · **Open issues**: 885 · **Contributors**: 154
+- **Stars**: 11,335 · **Forks**: 957 · **Open issues**: 885 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1662 · **Open PRs**: 19 · **Closed issues**: 835 · **Open issues**: 50 · **Commits**: 3719
+- **Releases**: 92 · **Merged PRs**: 1664 · **Open PRs**: 18 · **Closed issues**: 836 · **Open issues**: 49 · **Commits**: 3725
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 15 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 19 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 0 | 7 | 3 | 1 | 0 | 8 |
+| last60d | 2026-08-23 | 2 | 30 | 4 | 3 | 1 | 36 |
+| 90d | 2026-07-24 | 3 | 60 | 4 | 6 | 1 | 67 |
+| last180d | 2026-04-25 | 6 | 101 | 4 | 21 | 8 | 117 |
+| 360d | 2025-10-27 | 15 | 178 | 9 | 48 | 11 | 201 |
+| last720d | 2024-11-01 | 19 | 351 | 14 | 115 | 18 | 749 |
 
 ## Improve this data
 
@@ -73,4 +63,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:52:08Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:52:16Z._
