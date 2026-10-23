@@ -33,26 +33,45 @@ Total: **823,404** lines of code across **3077** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 11,335 · **Forks**: 957 · **Open issues**: 885 · **Contributors**: 154
+- **Stars**: 11,341 · **Forks**: 958 · **Open issues**: 886 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1664 · **Open PRs**: 18 · **Closed issues**: 836 · **Open issues**: 49 · **Commits**: 3725
+- **Releases**: 92 · **Merged PRs**: 1665 · **Open PRs**: 18 · **Closed issues**: 836 · **Open issues**: 50 · **Commits**: 3727
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 7 | 3 | 1 | 0 | 8 |
-| last60d | 2026-08-23 | 2 | 30 | 4 | 3 | 1 | 36 |
-| 90d | 2026-07-24 | 3 | 60 | 4 | 6 | 1 | 67 |
-| last180d | 2026-04-25 | 6 | 101 | 4 | 21 | 8 | 117 |
-| 360d | 2025-10-27 | 15 | 178 | 9 | 48 | 11 | 201 |
-| last720d | 2024-11-01 | 19 | 351 | 14 | 115 | 18 | 749 |
+| 30d | 2026-09-23 | 0 | 8 | 3 | 1 | 1 | 9 |
+| last60d | 2026-08-24 | 2 | 31 | 4 | 3 | 2 | 37 |
+| 90d | 2026-07-25 | 3 | 61 | 4 | 6 | 2 | 68 |
+| last180d | 2026-04-26 | 6 | 101 | 4 | 21 | 9 | 118 |
+| 360d | 2025-10-28 | 15 | 179 | 9 | 48 | 12 | 202 |
+| last720d | 2024-11-02 | 19 | 352 | 14 | 115 | 19 | 750 |
+
+## Distribution status
+
+Reported by **330** distros on [repology.org](https://repology.org/project/skopeo). **22** are ✅ on the latest upstream release, **144** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.22.0` | ⚠️ outdated |
+| Debian 14 | `1.22.0` | ⚠️ outdated |
+| Debian 13 | `1.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.21.0~pre1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.13.3` | ⚠️ outdated |
+| Arch | `1.24.1` | ✅ latest |
+| Homebrew | `1.24.1` | ✅ latest |
+| Fedora rawhide | `1.24.1` | ✅ latest |
+| Nix unstable | `1.24.1` | ✅ latest |
+| Void | `1.24.1` | ✅ latest |
+| Alpine edge | `1.24.1` | ✅ latest |
+| openSUSE Tumbleweed | `1.24.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:52:16Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:18Z._
