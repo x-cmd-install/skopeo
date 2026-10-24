@@ -33,26 +33,26 @@ Total: **823,404** lines of code across **3077** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 
 ## Popularity
 
-- **Stars**: 11,341 · **Forks**: 958 · **Open issues**: 886 · **Contributors**: 154
+- **Stars**: 11,343 · **Forks**: 958 · **Open issues**: 887 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1665 · **Open PRs**: 18 · **Closed issues**: 836 · **Open issues**: 50 · **Commits**: 3727
+- **Releases**: 92 · **Merged PRs**: 1667 · **Open PRs**: 16 · **Closed issues**: 836 · **Open issues**: 51 · **Commits**: 3731
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 8 | 3 | 1 | 1 | 9 |
-| last60d | 2026-08-24 | 2 | 31 | 4 | 3 | 2 | 37 |
-| 90d | 2026-07-25 | 3 | 61 | 4 | 6 | 2 | 68 |
-| last180d | 2026-04-26 | 6 | 101 | 4 | 21 | 9 | 118 |
-| 360d | 2025-10-28 | 15 | 179 | 9 | 48 | 12 | 202 |
-| last720d | 2024-11-02 | 19 | 352 | 14 | 115 | 19 | 750 |
+| 30d | 2026-09-24 | 0 | 9 | 1 | 1 | 2 | 11 |
+| last60d | 2026-08-25 | 2 | 31 | 2 | 2 | 2 | 39 |
+| 90d | 2026-07-26 | 3 | 60 | 2 | 6 | 3 | 70 |
+| last180d | 2026-04-27 | 6 | 103 | 2 | 21 | 10 | 120 |
+| 360d | 2025-10-29 | 15 | 181 | 6 | 48 | 13 | 204 |
+| last720d | 2024-11-03 | 19 | 354 | 12 | 115 | 20 | 754 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:57:18Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:43:01Z._
