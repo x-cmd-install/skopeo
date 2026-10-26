@@ -47,12 +47,12 @@ Total: **823,404** lines of code across **3077** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 9 | 2 | 1 | 2 | 11 |
-| last60d | 2026-08-26 | 2 | 31 | 2 | 2 | 2 | 39 |
-| 90d | 2026-07-27 | 3 | 58 | 3 | 6 | 3 | 70 |
-| last180d | 2026-04-28 | 6 | 102 | 3 | 21 | 10 | 120 |
-| 360d | 2025-10-30 | 15 | 180 | 7 | 48 | 13 | 204 |
-| last720d | 2024-11-04 | 19 | 354 | 13 | 114 | 20 | 754 |
+| 30d | 2026-09-26 | 0 | 9 | 2 | 1 | 2 | 10 |
+| last60d | 2026-08-27 | 2 | 31 | 2 | 2 | 2 | 36 |
+| 90d | 2026-07-28 | 3 | 57 | 3 | 6 | 3 | 61 |
+| last180d | 2026-04-29 | 6 | 100 | 3 | 21 | 10 | 114 |
+| 360d | 2025-10-31 | 15 | 180 | 7 | 47 | 13 | 201 |
+| last720d | 2024-11-05 | 19 | 354 | 13 | 114 | 20 | 753 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:43:47Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:46:51Z._
