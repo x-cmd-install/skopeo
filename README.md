@@ -37,26 +37,26 @@ Total: **823,436** lines of code across **3077** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,356 · **Forks**: 963 · **Open issues**: 887 · **Contributors**: 154
+- **Stars**: 11,360 · **Forks**: 963 · **Open issues**: 887 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1669 · **Open PRs**: 20 · **Closed issues**: 836 · **Open issues**: 51 · **Commits**: 3735
+- **Releases**: 92 · **Merged PRs**: 1669 · **Open PRs**: 21 · **Closed issues**: 836 · **Open issues**: 51 · **Commits**: 3735
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 11 | 5 | 1 | 2 | 12 |
-| last60d | 2026-08-29 | 2 | 32 | 5 | 2 | 2 | 38 |
-| 90d | 2026-07-30 | 3 | 57 | 6 | 6 | 3 | 63 |
-| last180d | 2026-05-01 | 5 | 99 | 6 | 21 | 10 | 116 |
-| 360d | 2025-11-02 | 15 | 181 | 10 | 47 | 13 | 203 |
-| last720d | 2024-11-07 | 19 | 356 | 16 | 113 | 20 | 757 |
+| 30d | 2026-09-29 | 0 | 11 | 6 | 1 | 2 | 12 |
+| last60d | 2026-08-30 | 2 | 31 | 6 | 2 | 2 | 38 |
+| 90d | 2026-07-31 | 2 | 57 | 7 | 6 | 3 | 63 |
+| last180d | 2026-05-02 | 5 | 99 | 7 | 21 | 10 | 116 |
+| 360d | 2025-11-03 | 15 | 181 | 11 | 47 | 13 | 203 |
+| last720d | 2024-11-08 | 19 | 355 | 17 | 113 | 20 | 757 |
 
 ## Distribution status
 
-Reported by **334** distros on [repology.org](https://repology.org/project/skopeo). **22** are ✅ on the latest upstream release, **148** are ⚠️ on an older version.
+Reported by **335** distros on [repology.org](https://repology.org/project/skopeo). **23** are ✅ on the latest upstream release, **148** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:45:22Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:52:03Z._
