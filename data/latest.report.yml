@@ -2,25 +2,25 @@ about:
   description: "Work with remote images registries - retrieving information, images, signing content"
   license: Apache-2.0
   homepage: https://github.com/podman-container-tools/skopeo
-  head: a153d63
+  head: eb3cde2
   archived: false
   latestVersion: "v1.24.1"
   latestRelease: "v1.24.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:51:48Z
+  collectedAt: 2026-10-30T05:59:35Z
 timeline:
   created: 2016-03-07
-  lastCommit: 2026-10-27
+  lastCommit: 2026-10-29
   lastVersion: 2026-09-16
   lastRelease: 2026-09-16
   lastPrerelease: 
 popularity:
-  star: 11360
+  star: 11363
   watcher: 95
-  fork: 963
+  fork: 964
   release: 92
-  contributor: 154
-  pullRequest: 2068
+  contributor: 155
+  pullRequest: 2070
   issue: 887
 language:
   Go: 319024
@@ -30,63 +30,63 @@ language:
 totalBytes: 393313
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 11
-    openPR: 6
-    closedIssue: 1
-    openIssue: 2
-    commit: 12
-  last60d:
-    since: 2026-08-30
-    release: 2
-    mergedPR: 31
-    openPR: 6
+    openPR: 7
     closedIssue: 2
-    openIssue: 2
-    commit: 38
+    openIssue: 1
+    commit: 13
+  last60d:
+    since: 2026-08-31
+    release: 2
+    mergedPR: 32
+    openPR: 7
+    closedIssue: 3
+    openIssue: 1
+    commit: 39
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 2
     mergedPR: 57
-    openPR: 7
-    closedIssue: 6
-    openIssue: 3
-    commit: 63
+    openPR: 8
+    closedIssue: 7
+    openIssue: 2
+    commit: 64
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 5
     mergedPR: 99
-    openPR: 7
-    closedIssue: 21
-    openIssue: 10
-    commit: 116
+    openPR: 8
+    closedIssue: 22
+    openIssue: 9
+    commit: 117
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 15
     mergedPR: 181
-    openPR: 11
-    closedIssue: 47
-    openIssue: 13
-    commit: 203
+    openPR: 12
+    closedIssue: 48
+    openIssue: 12
+    commit: 204
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 19
-    mergedPR: 355
-    openPR: 17
-    closedIssue: 113
-    openIssue: 20
-    commit: 757
+    mergedPR: 356
+    openPR: 18
+    closedIssue: 114
+    openIssue: 19
+    commit: 759
 total:
   release: 92
-  mergedPR: 1669
-  openPR: 21
-  closedIssue: 836
-  openIssue: 51
-  commit: 3735
+  mergedPR: 1670
+  openPR: 22
+  closedIssue: 837
+  openIssue: 50
+  commit: 3737
 ---
 path: /home/runner/.x-repo/github.com/podman-container-tools/skopeo
-collectedAt: 2026-10-29T05:51:56Z
+collectedAt: 2026-10-30T05:59:45Z
 loc:
   Go:
     code: 592146
