@@ -33,26 +33,26 @@ Total: **823,436** lines of code across **3077** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-29
 
 ## Popularity
 
-- **Stars**: 11,360 · **Forks**: 963 · **Open issues**: 887 · **Contributors**: 154
+- **Stars**: 11,363 · **Forks**: 964 · **Open issues**: 887 · **Contributors**: 155
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1669 · **Open PRs**: 21 · **Closed issues**: 836 · **Open issues**: 51 · **Commits**: 3735
+- **Releases**: 92 · **Merged PRs**: 1670 · **Open PRs**: 22 · **Closed issues**: 837 · **Open issues**: 50 · **Commits**: 3737
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 11 | 6 | 1 | 2 | 12 |
-| last60d | 2026-08-30 | 2 | 31 | 6 | 2 | 2 | 38 |
-| 90d | 2026-07-31 | 2 | 57 | 7 | 6 | 3 | 63 |
-| last180d | 2026-05-02 | 5 | 99 | 7 | 21 | 10 | 116 |
-| 360d | 2025-11-03 | 15 | 181 | 11 | 47 | 13 | 203 |
-| last720d | 2024-11-08 | 19 | 355 | 17 | 113 | 20 | 757 |
+| 30d | 2026-09-30 | 0 | 11 | 7 | 2 | 1 | 13 |
+| last60d | 2026-08-31 | 2 | 32 | 7 | 3 | 1 | 39 |
+| 90d | 2026-08-01 | 2 | 57 | 8 | 7 | 2 | 64 |
+| last180d | 2026-05-03 | 5 | 99 | 8 | 22 | 9 | 117 |
+| 360d | 2025-11-04 | 15 | 181 | 12 | 48 | 12 | 204 |
+| last720d | 2024-11-09 | 19 | 356 | 18 | 114 | 19 | 759 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:52:03Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:59:52Z._
