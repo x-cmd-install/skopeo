@@ -14,11 +14,11 @@ x install skopeo
 
 ## Code insight
 
-Total: **823,436** lines of code across **3077** files in the top 5 languages.
+Total: **823,457** lines of code across **3077** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 592,146 | 140,307 | 79,088 | 2942 |
+| Go | 592,167 | 140,323 | 79,095 | 2942 |
 | C | 177,416 | 77,446 | 15,724 | 8 |
 | AssemblyGAS | 43,847 | 1,974 | 3,829 | 92 |
 | CHeader | 5,721 | 12,998 | 1,037 | 14 |
@@ -33,26 +33,26 @@ Total: **823,436** lines of code across **3077** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 
 ## Popularity
 
-- **Stars**: 11,363 · **Forks**: 964 · **Open issues**: 887 · **Contributors**: 155
+- **Stars**: 11,365 · **Forks**: 965 · **Open issues**: 887 · **Contributors**: 155
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1670 · **Open PRs**: 22 · **Closed issues**: 837 · **Open issues**: 50 · **Commits**: 3737
+- **Releases**: 92 · **Merged PRs**: 1671 · **Open PRs**: 31 · **Closed issues**: 837 · **Open issues**: 50 · **Commits**: 3739
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 11 | 7 | 2 | 1 | 13 |
-| last60d | 2026-08-31 | 2 | 32 | 7 | 3 | 1 | 39 |
-| 90d | 2026-08-01 | 2 | 57 | 8 | 7 | 2 | 64 |
-| last180d | 2026-05-03 | 5 | 99 | 8 | 22 | 9 | 117 |
-| 360d | 2025-11-04 | 15 | 181 | 12 | 48 | 12 | 204 |
-| last720d | 2024-11-09 | 19 | 356 | 18 | 114 | 19 | 759 |
+| 30d | 2026-10-01 | 0 | 12 | 16 | 2 | 1 | 14 |
+| last60d | 2026-09-01 | 2 | 33 | 16 | 3 | 1 | 40 |
+| 90d | 2026-08-02 | 2 | 58 | 17 | 7 | 2 | 65 |
+| last180d | 2026-05-04 | 5 | 100 | 17 | 22 | 9 | 118 |
+| 360d | 2025-11-05 | 15 | 182 | 21 | 48 | 12 | 205 |
+| last720d | 2024-11-10 | 19 | 356 | 27 | 114 | 19 | 761 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:59:52Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:41:20Z._
