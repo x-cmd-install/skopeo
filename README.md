@@ -33,26 +33,26 @@ Total: **823,458** lines of code across **3077** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 11,371 · **Forks**: 967 · **Open issues**: 887 · **Contributors**: 156
+- **Stars**: 11,373 · **Forks**: 967 · **Open issues**: 887 · **Contributors**: 156
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1675 · **Open PRs**: 30 · **Closed issues**: 837 · **Open issues**: 50 · **Commits**: 3745
+- **Releases**: 92 · **Merged PRs**: 1676 · **Open PRs**: 29 · **Closed issues**: 837 · **Open issues**: 50 · **Commits**: 3747
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 16 | 15 | 2 | 1 | 16 |
-| last60d | 2026-09-04 | 2 | 33 | 15 | 3 | 1 | 35 |
-| 90d | 2026-08-05 | 2 | 59 | 16 | 6 | 2 | 62 |
-| last180d | 2026-05-07 | 5 | 103 | 16 | 22 | 9 | 118 |
-| 360d | 2025-11-08 | 15 | 186 | 20 | 47 | 12 | 205 |
-| last720d | 2024-11-13 | 19 | 357 | 26 | 112 | 19 | 757 |
+| 30d | 2026-10-05 | 0 | 17 | 14 | 2 | 1 | 17 |
+| last60d | 2026-09-05 | 2 | 34 | 14 | 3 | 1 | 36 |
+| 90d | 2026-08-06 | 2 | 59 | 15 | 6 | 2 | 63 |
+| last180d | 2026-05-08 | 5 | 103 | 15 | 22 | 8 | 119 |
+| 360d | 2025-11-09 | 15 | 187 | 19 | 47 | 12 | 206 |
+| last720d | 2024-11-14 | 18 | 358 | 25 | 112 | 19 | 757 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:55:28Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:25:05Z._
