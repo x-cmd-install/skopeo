@@ -2,202 +2,56 @@
   subrepo: appstream
   srcname: skopeo
   visiblename: skopeo
-  version: 1.2.0
-  origversion: 1:1.2.0-9.module+el8.3.1+9857+68fb1526
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.2
-  origversion: 1:1.2.2-10.module+el8.4.0+11311+9da8acfb
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.2
-  origversion: 1:1.2.2-10.module+el8.5.0+11808+4e1db630
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.2
-  origversion: 1:1.2.2-7.module+el8.4.0+11310+8c67a752
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.2
-  origversion: 1:1.2.2-8.module+el8.4.0+11818+341460ad
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.4
-  origversion: 1:1.2.4-1.module+el8.5.0+13605+73abf821
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.4
-  origversion: 1:1.2.4-1.module+el8.5.0+14784+8c48f0fc
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.4
-  origversion: 1:1.2.4-1.module+el8.6.0+14694+4f5132e0
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.4
-  origversion: 1:1.2.4-1.module+el8.6.0+14874+64436299
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.2.4
-  origversion: 1:1.2.4-2.module+el8.7.0+16533+44634e24
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.3.1
-  origversion: 1:1.3.1-5.module+el8.4.0+11990+22932769
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.4.2
-  origversion: 1:1.4.2-0.1.module+el8.5.0+12582+56d94c81
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.5.2
-  origversion: 2:1.5.2-1.module+el8.5.0+13517+4134e2e1
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.1
-  origversion: 2:1.6.1-2.module+el8.6.0+14672+b2f82327
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.1
-  origversion: 2:1.6.1-2.module+el8.6.0+14673+621cb8be
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
   version: 0.1.41
-  origversion: 1:0.1.41-4.module_el8.6.0+3135+3120cf25
+  origversion: 1:0.1.41-4.module+el8.5.0+14796+e4386a39
   status: legacy
   summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
   licenses:
     - ASL 2.0
   categories:
     - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.13.3
+  origversion: 2:1.13.3-3.module+el8.9.0+21243+a586538b
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
   srcname: skopeo
   visiblename: skopeo
   version: 1.14.3
-  origversion: 2:1.14.3-2.module_el8.10.0+3845+87b84552
+  origversion: 2:1.14.3-2.module+el8.10.0+21962+8143777b
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.13.3
+  origversion: 2:1.13.3-3.module+el8.9.0+21525+acb5d821
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.5
+  origversion: 2:1.14.5-4.module_el8.10.0+4023+db236c53
   status: legacy
   summary: Inspect container images and repositories on registries
   maintainers:
@@ -206,37 +60,66 @@
     - ASL 2.0
   categories:
     - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 0.1.41
+  origversion: 1:0.1.41-4.module+el8.4.0+10193+e90fd8eb
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
 - repo: almalinux_8
   subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.5
+  origversion: 2:1.14.5-4.module_el8.10.0+4047+545787c4
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.13.3
+  origversion: 2:1.13.3-3.module+el8.9.0+21697+6a5e98e7
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.5
+  origversion: 2:1.14.5-4.module_el8.10.0+4068+0e21408f
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
   srcname: skopeo
   visiblename: skopeo
   version: 1.14.3
-  origversion: 2:1.14.3-2.module_el8.10.0+3858+6ad51f9f
+  origversion: 2:1.14.3-2.module+el8.10.0+21728+a1d9b0ab
   status: legacy
   summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: homebrew
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.24.1
-  origversion: null
-  status: newest
-  summary: Work with remote images registries
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 0.1.41
-  origversion: 1:0.1.41-4.module_el8.5.0+108+00865455
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
   licenses:
     - ASL 2.0
   categories:
@@ -245,8 +128,8 @@
   subrepo: AppStream
   srcname: skopeo
   visiblename: skopeo
-  version: 0.1.41
-  origversion: 1:0.1.41-4.module_el8.5.0+2635+e4386a39
+  version: 1.14.5
+  origversion: 2:1.14.5-4.module_el8.10.0+4016+efd18bf8
   status: legacy
   summary: Inspect container images and repositories on registries
   maintainers:
@@ -314,6 +197,76 @@
   origversion: 1:0.1.32-6.git1715c90.module_el8.6.0+3134+8f446637
   status: legacy
   summary: Inspect Docker images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 0.1.41
+  origversion: 1:0.1.41-4.module_el8.5.0+108+00865455
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 0.1.41
+  origversion: 1:0.1.41-4.module_el8.5.0+2635+e4386a39
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 0.1.41
+  origversion: 1:0.1.41-4.module_el8.6.0+3135+3120cf25
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.3
+  origversion: 2:1.14.3-2.module_el8.10.0+3845+87b84552
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - packager@almalinux.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: almalinux_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.3
+  origversion: 2:1.14.3-2.module_el8.10.0+3858+6ad51f9f
+  status: legacy
+  summary: Inspect container images and repositories on registries
   maintainers:
     - packager@almalinux.org
   licenses:
@@ -396,62 +349,6 @@
   visiblename: skopeo
   version: 1.14.5
   origversion: 2:1.14.5-3.module_el8.10.0+3970+8445edf6
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.5
-  origversion: 2:1.14.5-4.module_el8.10.0+4016+efd18bf8
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.5
-  origversion: 2:1.14.5-4.module_el8.10.0+4023+db236c53
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.5
-  origversion: 2:1.14.5-4.module_el8.10.0+4047+545787c4
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - packager@almalinux.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: almalinux_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.5
-  origversion: 2:1.14.5-4.module_el8.10.0+4068+0e21408f
   status: legacy
   summary: Inspect container images and repositories on registries
   maintainers:
@@ -614,18 +511,6 @@
     - ASL 2.0
   categories:
     - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.1
-  origversion: 2:1.6.1-2.module+el8.6.0+14877+f643d2d6
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
 - repo: almalinux_9
   subrepo: AppStream
   srcname: skopeo
@@ -759,6 +644,20 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: centos_stream_8
+  subrepo: AppStream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.0
+  origversion: 2:1.14.0-2.module_el8+804+f131391c
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - builder@centos.org
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
 - repo: alpine_3_17
   subrepo: community
   srcname: skopeo
@@ -837,18 +736,6 @@
     - clandmeter@alpinelinux.org
   licenses:
     - Apache-2.0
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.2
-  origversion: 2:1.6.2-5.module+el8.7.0+16520+2db5507d
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
 - repo: alpine_3_18
   subrepo: community
   srcname: skopeo
@@ -979,18 +866,6 @@
     - clandmeter@alpinelinux.org
   licenses:
     - Apache-2.0
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.2
-  origversion: 2:1.6.2-9.module+el8.9.0+20325+b2853e6e
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
 - repo: alpine_3_20
   subrepo: community
   srcname: skopeo
@@ -1384,18 +1259,6 @@
     - Apache-2.0
   categories:
     - Other
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.2
-  origversion: 2:1.6.2-9.module+el8.9.0+20656+56f336b9
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
 - repo: altsisyphus
   srcname: skopeo
   binnames:
@@ -1669,20 +1532,6 @@
   subrepo: AppStream
   srcname: skopeo
   visiblename: skopeo
-  version: 1.14.0
-  origversion: 2:1.14.0-2.module_el8+804+f131391c
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - builder@centos.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: centos_stream_8
-  subrepo: AppStream
-  srcname: skopeo
-  visiblename: skopeo
   version: 1.14.3
   origversion: 2:1.14.3-0.1.module_el8+885+7da147f3
   status: outdated
@@ -1745,18 +1594,6 @@
   summary: Inspect container images and repositories on registries
   maintainers:
     - bugs@centos.org
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.6.2
-  origversion: 2:1.6.2-9.module+el8.9.0+21242+944321bb
-  status: legacy
-  summary: Inspect container images and repositories on registries
   licenses:
     - ASL 2.0
   categories:
@@ -1943,16 +1780,6 @@
     - ASL 2.0
   categories:
     - Unspecified
-- repo: crux_38
-  subrepo: contrib
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.24.1
-  origversion: null
-  status: newest
-  summary: Work with remote images registries - retrieving information, images, signing content
-  maintainers:
-    - tbier@posteo.de
 - repo: centos_stream_8
   subrepo: AppStream
   srcname: skopeo
@@ -2032,25 +1859,6 @@
     - skopeo-debuginfo
     - skopeo-debugsource
   visiblename: skopeo
-  version: 1.22.0
-  origversion: 2:1.22.0-2.el9
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - builder@centos.org
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: centos_stream_9
-  subrepo: AppStream
-  srcname: skopeo
-  binnames:
-    - skopeo
-    - skopeo-tests
-    - skopeo-debuginfo
-    - skopeo-debugsource
-  visiblename: skopeo
   version: 1.22.2
   origversion: 3:1.22.2-1.el9
   status: legacy
@@ -2099,6 +1907,37 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 0.1.41
+  origversion: 1:0.1.41-4.module+el8.5.0+10223+f7559c42
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: centos_stream_9
+  subrepo: AppStream
+  srcname: skopeo
+  binnames:
+    - skopeo
+    - skopeo-tests
+    - skopeo-debuginfo
+    - skopeo-debugsource
+  visiblename: skopeo
+  version: 1.22.2
+  origversion: 3:1.22.2-5.el9
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  maintainers:
+    - builder@centos.org
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
 - repo: centos_stream_9
   subrepo: AppStream
   srcname: skopeo
@@ -2129,39 +1968,6 @@
   visiblename: skopeo
   version: 1.22.2
   origversion: 3:1.22.2-4.el9
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  maintainers:
-    - builder@centos.org
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: skopeo
-  binnames:
-    - skopeo
-  visiblename: skopeo
-  version: 1.2.2
-  origversion: 1.2.2+dfsg1-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - siretart@tauware.de
-  categories:
-    - misc
-- repo: centos_stream_10
-  subrepo: AppStream
-  srcname: skopeo
-  binnames:
-    - skopeo
-    - skopeo-tests
-    - skopeo-debuginfo
-    - skopeo-debugsource
-  visiblename: skopeo
-  version: 1.22.0
-  origversion: 2:1.22.0-2.el10
   status: legacy
   summary: Inspect container images and repositories on registries
   maintainers:
@@ -2242,6 +2048,23 @@
   summary: Inspect container images and repositories on registries
   maintainers:
     - builder@centos.org
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: centos_stream_10
+  subrepo: AppStream
+  srcname: skopeo
+  binnames:
+    - skopeo
+    - skopeo-tests
+    - skopeo-debuginfo
+    - skopeo-debugsource
+  visiblename: skopeo
+  version: 1.24.0
+  origversion: 3:1.24.0-3.el10
+  status: outdated
+  summary: Inspect container images and repositories on registries
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
@@ -2330,6 +2153,30 @@
   summary: Work with remote images registries - retrieving information, images, signing content
   maintainers:
     - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.24.1
+  origversion: null
+  status: newest
+  summary: Work with remote images registries - retrieving information, images, signing content
+  maintainers:
+    - tbier@posteo.de
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: skopeo
+  binnames:
+    - skopeo
+  visiblename: skopeo
+  version: 1.2.2
+  origversion: 1.2.2+dfsg1-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - siretart@tauware.de
+  categories:
+    - misc
 - repo: debian_12
   subrepo: bookworm/main
   srcname: skopeo
@@ -2456,102 +2303,6 @@
   subrepo: appstream
   srcname: skopeo
   visiblename: skopeo
-  version: 0.1.41
-  origversion: 1:0.1.41-4.module+el8.4.0+10193+e90fd8eb
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 0.1.41
-  origversion: 1:0.1.41-4.module+el8.5.0+10223+f7559c42
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 0.1.41
-  origversion: 1:0.1.41-4.module+el8.5.0+14796+e4386a39
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.13.3
-  origversion: 2:1.13.3-3.module+el8.9.0+21243+a586538b
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.13.3
-  origversion: 2:1.13.3-3.module+el8.9.0+21525+acb5d821
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.13.3
-  origversion: 2:1.13.3-3.module+el8.9.0+21697+6a5e98e7
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.3
-  origversion: 2:1.14.3-2.module+el8.10.0+21728+a1d9b0ab
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.3
-  origversion: 2:1.14.3-2.module+el8.10.0+21962+8143777b
-  status: legacy
-  summary: Inspect container images and repositories on registries
-  licenses:
-    - ASL 2.0
-  categories:
-    - Unspecified
-- repo: eurolinux_8
-  subrepo: appstream
-  srcname: skopeo
-  visiblename: skopeo
   version: 1.14.4
   origversion: 2:1.14.4-1.module+el8.10.0+21995+81e8507c
   status: legacy
@@ -2591,6 +2342,246 @@
   version: 1.14.5
   origversion: 2:1.14.5-3.module+el8.10.0+22346+28c02849
   status: outdated
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.0
+  origversion: 1:1.2.0-9.module+el8.3.1+9857+68fb1526
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.2
+  origversion: 1:1.2.2-10.module+el8.4.0+11311+9da8acfb
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.2
+  origversion: 1:1.2.2-10.module+el8.5.0+11808+4e1db630
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.2
+  origversion: 1:1.2.2-7.module+el8.4.0+11310+8c67a752
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.2
+  origversion: 1:1.2.2-8.module+el8.4.0+11818+341460ad
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.4
+  origversion: 1:1.2.4-1.module+el8.5.0+13605+73abf821
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.4
+  origversion: 1:1.2.4-1.module+el8.5.0+14784+8c48f0fc
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.4
+  origversion: 1:1.2.4-1.module+el8.6.0+14694+4f5132e0
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.4
+  origversion: 1:1.2.4-1.module+el8.6.0+14874+64436299
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.2.4
+  origversion: 1:1.2.4-2.module+el8.7.0+16533+44634e24
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.3.1
+  origversion: 1:1.3.1-5.module+el8.4.0+11990+22932769
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.4.2
+  origversion: 1:1.4.2-0.1.module+el8.5.0+12582+56d94c81
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.5.2
+  origversion: 2:1.5.2-1.module+el8.5.0+13517+4134e2e1
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.1
+  origversion: 2:1.6.1-2.module+el8.6.0+14672+b2f82327
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.1
+  origversion: 2:1.6.1-2.module+el8.6.0+14673+621cb8be
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.1
+  origversion: 2:1.6.1-2.module+el8.6.0+14877+f643d2d6
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.2
+  origversion: 2:1.6.2-5.module+el8.7.0+16520+2db5507d
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.2
+  origversion: 2:1.6.2-9.module+el8.9.0+20325+b2853e6e
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.2
+  origversion: 2:1.6.2-9.module+el8.9.0+20656+56f336b9
+  status: legacy
+  summary: Inspect container images and repositories on registries
+  licenses:
+    - ASL 2.0
+  categories:
+    - Unspecified
+- repo: eurolinux_8
+  subrepo: appstream
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.6.2
+  origversion: 2:1.6.2-9.module+el8.9.0+21242+944321bb
+  status: legacy
   summary: Inspect container images and repositories on registries
   licenses:
     - ASL 2.0
@@ -3275,6 +3266,13 @@
   origversion: null
   status: newest
   summary: Interact with container images and container image registries
+- repo: homebrew
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.24.1
+  origversion: null
+  status: newest
+  summary: Work with remote images registries
 - repo: kali_rolling
   subrepo: main
   srcname: skopeo
@@ -3596,6 +3594,18 @@
     - vincent@sbr.pm
   licenses:
     - Apache-2.0
+- repo: opensuse_leap_15_5
+  subrepo: updates/sle
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.14.4
+  origversion: 1.14.4-150300.11.11.1
+  status: outdated
+  summary: Container image repository tool
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Management
 - repo: nix_stable_25_05
   srcname: skopeo
   visiblename: skopeo
@@ -3884,30 +3894,6 @@
     - Apache-2.0
   categories:
     - System/Management
-- repo: opensuse_leap_15_5
-  subrepo: updates/sle
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.14.4
-  origversion: 1.14.4-150300.11.11.1
-  status: outdated
-  summary: Container image repository tool
-  licenses:
-    - Apache-2.0
-  categories:
-    - System/Management
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: skopeo
-  visiblename: skopeo
-  version: 1.12.0
-  origversion: 1.12.0-150300.11.5.1
-  status: legacy
-  summary: Container image repository tool
-  licenses:
-    - Apache-2.0
-  categories:
-    - System/Management
 - repo: opensuse_leap_15_6
   subrepo: updates/sle
   srcname: skopeo
@@ -3956,6 +3942,18 @@
     - Apache-2.0
   categories:
     - System/Management
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: skopeo
+  visiblename: skopeo
+  version: 1.12.0
+  origversion: 1.12.0-150300.11.5.1
+  status: legacy
+  summary: Container image repository tool
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Management
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: skopeo
@@ -3968,7 +3966,7 @@
     - skopeo-zsh-completion
   visiblename: skopeo
   version: 1.24.0
-  origversion: 1.24.0-1.1
+  origversion: 1.24.0-2.1
   status: outdated
   summary: Container image repository tool
   licenses:
