@@ -14,11 +14,11 @@ x install skopeo
 
 ## Code insight
 
-Total: **836,889** lines of code across **3113** files in the top 5 languages.
+Total: **836,935** lines of code across **3113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 605,599 | 143,880 | 80,385 | 2978 |
+| Go | 605,645 | 143,893 | 80,387 | 2978 |
 | C | 177,416 | 77,446 | 15,724 | 8 |
 | AssemblyGAS | 43,847 | 1,974 | 3,829 | 92 |
 | CHeader | 5,721 | 12,998 | 1,037 | 14 |
@@ -32,31 +32,31 @@ Total: **836,889** lines of code across **3113** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.24.1` (2026-09-16)
-- **Last commit**: 2026-11-09
+- **Latest**: `v1.22.4` (2026-11-10)
+- **Last commit**: 2026-11-10
 
 ## Popularity
 
-- **Stars**: 11,389 · **Forks**: 965 · **Open issues**: 888 · **Contributors**: 156
+- **Stars**: 11,394 · **Forks**: 965 · **Open issues**: 888 · **Contributors**: 156
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1680 · **Open PRs**: 28 · **Closed issues**: 837 · **Open issues**: 51 · **Commits**: 3756
+- **Releases**: 94 · **Merged PRs**: 1683 · **Open PRs**: 28 · **Closed issues**: 837 · **Open issues**: 51 · **Commits**: 3758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 18 | 13 | 2 | 2 | 20 |
-| last60d | 2026-09-11 | 2 | 34 | 13 | 2 | 2 | 38 |
-| 90d | 2026-08-12 | 2 | 57 | 14 | 5 | 3 | 61 |
-| last180d | 2026-05-14 | 5 | 104 | 14 | 22 | 9 | 121 |
-| 360d | 2025-11-15 | 15 | 186 | 18 | 46 | 12 | 205 |
-| last720d | 2024-11-20 | 18 | 361 | 24 | 112 | 20 | 762 |
+| 30d | 2026-10-12 | 2 | 21 | 13 | 2 | 2 | 21 |
+| last60d | 2026-09-12 | 4 | 37 | 13 | 2 | 2 | 39 |
+| 90d | 2026-08-13 | 4 | 57 | 14 | 4 | 3 | 62 |
+| last180d | 2026-05-15 | 6 | 107 | 14 | 22 | 9 | 122 |
+| 360d | 2025-11-16 | 17 | 189 | 18 | 46 | 12 | 206 |
+| last720d | 2024-11-21 | 20 | 364 | 24 | 112 | 19 | 761 |
 
 ## Distribution status
 
-Reported by **335** distros on [repology.org](https://repology.org/project/skopeo). **24** are ✅ on the latest upstream release, **148** are ⚠️ on an older version.
+Reported by **335** distros on [repology.org](https://repology.org/project/skopeo). **3** are ✅ on the latest upstream release, **169** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -65,12 +65,12 @@ Reported by **335** distros on [repology.org](https://repology.org/project/skope
 | Debian 13 | `1.18.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.21.0~pre1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.13.3` | ⚠️ outdated |
-| Arch | `1.24.1` | ✅ latest |
-| Homebrew | `1.24.1` | ✅ latest |
-| Fedora rawhide | `1.24.1` | ✅ latest |
-| Nix unstable | `1.24.1` | ✅ latest |
-| Void | `1.24.1` | ✅ latest |
-| Alpine edge | `1.24.1` | ✅ latest |
+| Arch | `1.25.1` | ✅ latest |
+| Homebrew | `1.24.1` | ⚠️ outdated |
+| Fedora rawhide | `1.24.1` | ⚠️ outdated |
+| Nix unstable | `1.24.1` | ⚠️ outdated |
+| Void | `1.24.1` | ⚠️ outdated |
+| Alpine edge | `1.24.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.24.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:23:35Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:16:45Z._
