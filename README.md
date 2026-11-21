@@ -41,22 +41,22 @@ Total: **837,485** lines of code across **3123** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 1687 · **Open PRs**: 28 · **Closed issues**: 837 · **Open issues**: 52 · **Commits**: 3764
+- **Releases**: 96 · **Merged PRs**: 1687 · **Open PRs**: 29 · **Closed issues**: 837 · **Open issues**: 52 · **Commits**: 3764
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 20 | 14 | 2 | 2 | 18 |
-| last60d | 2026-09-21 | 4 | 32 | 14 | 3 | 2 | 31 |
-| 90d | 2026-08-22 | 6 | 53 | 15 | 5 | 3 | 57 |
-| last180d | 2026-05-24 | 8 | 110 | 15 | 22 | 9 | 125 |
-| 360d | 2025-11-25 | 19 | 189 | 18 | 43 | 12 | 208 |
-| last720d | 2024-11-30 | 22 | 365 | 25 | 112 | 20 | 761 |
+| 30d | 2026-10-22 | 4 | 19 | 15 | 2 | 1 | 18 |
+| last60d | 2026-09-22 | 4 | 30 | 15 | 3 | 2 | 31 |
+| 90d | 2026-08-23 | 6 | 53 | 16 | 5 | 3 | 57 |
+| last180d | 2026-05-25 | 8 | 110 | 16 | 22 | 9 | 125 |
+| 360d | 2025-11-26 | 19 | 189 | 19 | 43 | 12 | 208 |
+| last720d | 2024-12-01 | 22 | 364 | 26 | 112 | 20 | 761 |
 
 ## Distribution status
 
-Reported by **325** distros on [repology.org](https://repology.org/project/skopeo). **12** are ✅ on the latest upstream release, **152** are ⚠️ on an older version.
+Reported by **326** distros on [repology.org](https://repology.org/project/skopeo). **12** are ✅ on the latest upstream release, **153** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -67,7 +67,7 @@ Reported by **325** distros on [repology.org](https://repology.org/project/skope
 | Ubuntu 24.04 LTS | `1.13.3` | ⚠️ outdated |
 | Arch | `1.25.2` | ✅ latest |
 | Homebrew | `1.25.2` | ✅ latest |
-| Fedora rawhide | `1.24.1` | ⚠️ outdated |
+| Fedora rawhide | `1.25.1` | ⚠️ outdated |
 | Nix unstable | `1.25.1` | ⚠️ outdated |
 | Void | `1.25.1` | ⚠️ outdated |
 | Alpine edge | `1.24.1` | ⚠️ outdated |
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:01:33Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:21:39Z._
