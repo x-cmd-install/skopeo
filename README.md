@@ -37,22 +37,22 @@ Total: **837,485** lines of code across **3123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,427 · **Forks**: 963 · **Open issues**: 889 · **Contributors**: 156
+- **Stars**: 11,428 · **Forks**: 963 · **Open issues**: 889 · **Contributors**: 156
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 1687 · **Open PRs**: 29 · **Closed issues**: 837 · **Open issues**: 52 · **Commits**: 3764
+- **Releases**: 96 · **Merged PRs**: 1687 · **Open PRs**: 30 · **Closed issues**: 837 · **Open issues**: 52 · **Commits**: 3764
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 4 | 19 | 15 | 1 | 1 | 18 |
-| last60d | 2026-09-23 | 4 | 30 | 15 | 3 | 2 | 31 |
-| 90d | 2026-08-24 | 6 | 53 | 16 | 5 | 3 | 57 |
-| last180d | 2026-05-26 | 8 | 109 | 16 | 22 | 9 | 125 |
-| 360d | 2025-11-27 | 19 | 189 | 19 | 43 | 12 | 208 |
-| last720d | 2024-12-02 | 22 | 363 | 26 | 111 | 20 | 760 |
+| 30d | 2026-10-24 | 4 | 18 | 16 | 1 | 1 | 12 |
+| last60d | 2026-09-24 | 4 | 29 | 16 | 3 | 2 | 28 |
+| 90d | 2026-08-25 | 6 | 51 | 17 | 4 | 2 | 54 |
+| last180d | 2026-05-27 | 7 | 109 | 17 | 22 | 9 | 120 |
+| 360d | 2025-11-28 | 19 | 189 | 20 | 43 | 12 | 202 |
+| last720d | 2024-12-03 | 22 | 363 | 27 | 111 | 20 | 758 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for skopeo lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:05:25Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:59:10Z._
