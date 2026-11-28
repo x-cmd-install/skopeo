@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.25.2"
   latestRelease: "v1.25.2"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:43:09Z
+  collectedAt: 2026-11-28T07:54:22Z
 timeline:
   created: 2016-03-07
   lastCommit: 2026-11-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-16
   lastPrerelease: 
 popularity:
-  star: 11444
+  star: 11446
   watcher: 95
   fork: 961
   release: 96
@@ -30,15 +30,15 @@ language:
 totalBytes: 393410
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 4
-    mergedPR: 19
+    mergedPR: 17
     openPR: 9
     closedIssue: 1
     openIssue: 1
     commit: 15
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 4
     mergedPR: 32
     openPR: 13
@@ -46,15 +46,15 @@ recent:
     openIssue: 1
     commit: 32
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 6
-    mergedPR: 52
+    mergedPR: 51
     openPR: 13
     closedIssue: 5
     openIssue: 1
     commit: 57
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 7
     mergedPR: 110
     openPR: 14
@@ -62,15 +62,15 @@ recent:
     openIssue: 8
     commit: 123
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 19
-    mergedPR: 189
+    mergedPR: 187
     openPR: 17
-    closedIssue: 44
+    closedIssue: 43
     openIssue: 11
     commit: 205
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 22
     mergedPR: 364
     openPR: 24
@@ -86,7 +86,7 @@ total:
   commit: 3771
 ---
 path: /home/runner/.x-repo/github.com/podman-container-tools/skopeo
-collectedAt: 2026-11-27T08:43:18Z
+collectedAt: 2026-11-28T07:54:29Z
 loc:
   Go:
     code: 606191
